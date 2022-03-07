@@ -33,19 +33,18 @@ Saída: Nome do melhor canil e preço total dos banhos.
 
 `Exemplo: O melhor petshop é Meu Canino Feliz e o preço é 260` 
 
-### Premissas assumidas e outras decisoes:
-- Codigo realizado em JavaScript;
-- Nao foi verificado se a entrada esta em outro formato alem do pedido no enunciado;
-- É preciso que a data seja indicada no formato pedido, portanto nao foi verificado se a data esta adequada;
-- Sera indicado que nenhum valor foi informado se nada foi inserido;
-- Caso nenhum valor para as quantidades seja colocado, sera considerado o valor 0;
-- Para inserir novos valores, eh preciso recarregar a pagina.
+### Premissas assumidas e outras decisões:
+- Não foi verificado se a entrada esta em outro formato além do pedido no enunciado;
+- É preciso que a data seja indicada no formato pedido, portanto não foi verificado se a data está adequada;
+- Será indicado que nenhum valor foi informado se nada foi inserido;
+- Caso nenhum valor para as quantidades seja colocado, será considerado o valor 0;
+- Para inserir novos valores, é preciso recarregar a página.
 
-## Para executar o codigo:
+## Para executar o código:
 1. Abra o arquivo "index.html" em um navegador;
-2. Digite a informacao pedida (data no formato DD/MM/AAAA e as quantidades de cachorros grandes e pequenos);
+2. Digite as informações pedidas (data no formato DD/MM/AAAA e as quantidades de cães grandes e pequenos);
 3. Clique em OK;
-4. Na pagina aberta, clique com o botao direito em **Inspecionar** e na aba que foi aberta va em **Console** para ver
+4. Na pagina aberta, clique com o botão direito em **Inspecionar** e, na aba aberta, vá em **Console** para ver
 o resultado.
   
   
